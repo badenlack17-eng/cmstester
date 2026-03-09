@@ -1,0 +1,15 @@
+{
+  "title": "Message Received",
+  "sub": "Thanks for reaching out. We've received your message and will get back to you within one business day — usually sooner.",
+  "steps_title": "What Happens Next",
+  "steps": [
+    "We'll review your enquiry within 1 business day",
+    "We'll reach out to schedule a free strategy call",
+    "On the call, we'll discuss your goals and options",
+    "You'll receive a clear proposal with no obligation"
+  ],
+  "btn_home": "Back to Home",
+  "btn_home_href": "index.html",
+  "btn_services": "Explore Services",
+  "btn_services_href": "services.html"
+}

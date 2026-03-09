@@ -1,0 +1,154 @@
+{
+  "page_header": {
+    "eyebrow": "Get in Touch",
+    "heading": "Book a Free Strategy Call",
+    "sub": "Tell us about your trade business. We respond within one business day — no pressure, no sales pitch, just an honest conversation about what's possible."
+  },
+  "info_panel": {
+    "heading": "What Happens on the Call",
+    "body": "In 30 minutes, we'll review your current digital presence — or the absence of one — identify the highest-impact opportunities for your trade, and give you an honest recommendation. Whether you work with us or not, you'll leave with useful clarity.",
+    "email_label": "Email",
+    "email": "hello@orbitlogic.com.au",
+    "phone_label": "Phone",
+    "phone": "+61 400 000 000",
+    "location_label": "Location",
+    "location": "Queensland, Australia",
+    "response_label": "Response Time",
+    "response": "Within 1 business day"
+  },
+  "walkaway_box": {
+    "title": "What You'll Walk Away With",
+    "items": [
+      "An honest assessment of your current digital presence",
+      "Specific, actionable opportunities for more enquiries",
+      "A recommended path forward with realistic expectations",
+      "Clear pricing — no hidden costs, no surprise invoices",
+      "Zero obligation to proceed"
+    ]
+  },
+  "trust_bullets": [
+    "Trades-only focus — we understand your market",
+    "Queensland-based — same time zone, same market",
+    "No lock-in contracts — you own everything we build",
+    "Transparent pricing — itemised proposal before we start"
+  ],
+  "form": {
+    "heading": "Send Us a Message",
+    "label_name": "Full Name",
+    "placeholder_name": "Your name",
+    "label_business": "Business Name",
+    "placeholder_business": "Your business",
+    "label_email": "Email Address",
+    "placeholder_email": "hello@yourbusiness.com.au",
+    "label_phone": "Phone Number",
+    "placeholder_phone": "04XX XXX XXX",
+    "label_industry": "Your Trade or Industry",
+    "industry_default": "Select your trade or industry",
+    "industry_options": [
+      {
+        "label": "Concreter",
+        "value": "concreter"
+      },
+      {
+        "label": "Landscaper",
+        "value": "landscaper"
+      },
+      {
+        "label": "Patio Builder",
+        "value": "patio-builder"
+      },
+      {
+        "label": "Fencing Contractor",
+        "value": "fencing"
+      },
+      {
+        "label": "Roofer",
+        "value": "roofer"
+      },
+      {
+        "label": "Painter",
+        "value": "painter"
+      },
+      {
+        "label": "Electrician",
+        "value": "electrician"
+      },
+      {
+        "label": "Plumber",
+        "value": "plumber"
+      },
+      {
+        "label": "Pressure Washing",
+        "value": "pressure-washing"
+      },
+      {
+        "label": "Tiler",
+        "value": "tiler"
+      },
+      {
+        "label": "Pool Builder",
+        "value": "pool-builder"
+      },
+      {
+        "label": "Carpenter",
+        "value": "carpenter"
+      },
+      {
+        "label": "Property Maintenance",
+        "value": "property-maintenance"
+      },
+      {
+        "label": "Other Trade",
+        "value": "other-trade"
+      },
+      {
+        "label": "Service Business",
+        "value": "service-business"
+      }
+    ],
+    "label_need": "What Are You Looking For?",
+    "need_default": "Select what you need help with",
+    "need_options": [
+      {
+        "label": "New Website",
+        "value": "new-website"
+      },
+      {
+        "label": "Website Redesign",
+        "value": "website-redesign"
+      },
+      {
+        "label": "Lead Capture System",
+        "value": "lead-capture"
+      },
+      {
+        "label": "Quote Calculator",
+        "value": "quote-calculator"
+      },
+      {
+        "label": "Booking System",
+        "value": "booking-system"
+      },
+      {
+        "label": "Local SEO",
+        "value": "seo"
+      },
+      {
+        "label": "Website Management",
+        "value": "management"
+      },
+      {
+        "label": "Full Digital System",
+        "value": "full-system"
+      },
+      {
+        "label": "Not Sure — I Need Advice",
+        "value": "not-sure"
+      }
+    ],
+    "label_message": "Anything Else We Should Know?",
+    "placeholder_message": "Tell us about your business, what you're trying to achieve, or any questions you have...",
+    "submit_text": "Send Message",
+    "privacy_note": "By submitting you agree to our Privacy Policy. We never share your details with third parties."
+  }
+}

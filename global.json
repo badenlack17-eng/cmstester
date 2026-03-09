@@ -1,0 +1,138 @@
+{
+  "page_header": {
+    "eyebrow": "Advanced Digital Systems",
+    "heading": "Smart Tools That Automate the Parts of Your Business Eating Your Time",
+    "sub": "A great website gets you found. These systems convert that traffic, qualify your leads, and keep your business running efficiently — even when you're on the tools or off the clock."
+  },
+  "solutions": [
+    {
+      "num": "01",
+      "heading": "Instant Quote Calculators",
+      "body_1": "Let customers estimate the cost of their job directly on your website — before they even pick up the phone. They enter the job details (size, material, scope, location) and get an indicative price range in real time.",
+      "body_2": "This filters out unserious enquiries, gives confident buyers a reason to reach out, and positions you as a transparent operator that respects customers' time.",
+      "items": [
+        "Custom-built to your exact pricing structure",
+        "Mobile-friendly multi-step interface",
+        "Captures lead details at the final step",
+        "Instant email notification on every submission"
+      ],
+      "cta_text": "Add a Quote Calculator",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "02",
+      "heading": "Online Booking Systems",
+      "body_1": "Let customers book consultations, site inspections, or jobs directly from your website. No phone tag. No back-and-forth emails. Just confirmed appointments landing in your calendar.",
+      "body_2": "Synced with Google Calendar or your existing scheduling tool, with automatic confirmation emails sent to both you and the customer.",
+      "items": [
+        "Google Calendar and iCal integration",
+        "Automatic confirmation emails",
+        "Reminder messages before appointments",
+        "Service type and time slot selection"
+      ],
+      "cta_text": "Set Up a Booking System",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "03",
+      "heading": "Lead & Enquiry Dashboards",
+      "body_1": "A clean, simple dashboard where every lead from your website appears in real time. See the customer's name, contact details, job description, source, and follow-up status — all in one place, without digging through emails.",
+      "body_2": "",
+      "items": [
+        "Real-time lead feed from your website forms",
+        "Status tracking: New / In Progress / Closed",
+        "Lead source attribution (Google, direct, referral)",
+        "Notes and follow-up logging per lead"
+      ],
+      "cta_text": "Get a Lead Dashboard",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "04",
+      "heading": "Website Performance Reporting",
+      "body_1": "Clear, visual reports that show you exactly how your website is performing — so you're never guessing whether your digital investment is working. Updated monthly and sent directly to your inbox.",
+      "body_2": "",
+      "items": [
+        "Traffic and visitor trends over time",
+        "Lead volume and conversion rate",
+        "Top-performing pages and content",
+        "Source breakdown: Google, direct, social, referral"
+      ],
+      "cta_text": "Add Performance Reporting",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "05",
+      "heading": "Automated Lead Follow-Up",
+      "body_1": "Speed matters. When a customer submits an enquiry, they may contact two or three businesses at once — and the first to respond often wins the job. Our automated follow-up sequences respond within minutes, keeping your leads warm until you can call them.",
+      "body_2": "",
+      "items": [
+        "Instant auto-response on every enquiry",
+        "Timed follow-up sequences (day 1, day 3, day 7)",
+        "Cold lead re-engagement campaigns",
+        "Seasonal and promotional triggers"
+      ],
+      "cta_text": "Automate Your Follow-Up",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "06",
+      "heading": "Service Area Maps",
+      "body_1": "An interactive map on your website showing exactly where you operate. Customers can immediately see whether you cover their suburb — reducing unqualified enquiries and building confidence in the ones that do come through.",
+      "body_2": "",
+      "items": [
+        "Visual suburb and postcode coverage map",
+        "Reduces out-of-area enquiries",
+        "Supports local SEO for suburb-specific searches",
+        "Easily updated as your coverage grows"
+      ],
+      "cta_text": "Add a Service Area Map",
+      "cta_href": "contact.html"
+    },
+    {
+      "num": "07",
+      "heading": "Review & Reputation Systems",
+      "body_1": "Google reviews are one of the most powerful trust signals for trade businesses — yet most operators only get a handful because they never ask. Our review system sends a simple, automated follow-up after every completed job, prompting satisfied customers to leave a review while the experience is fresh.",
+      "body_2": "",
+      "items": [
+        "Post-job review request automation",
+        "Google Business Profile review link generation",
+        "Review monitoring and alerts",
+        "Review display widget for your website",
+        "Reputation trend reporting",
+        "Works alongside your existing workflow"
+      ],
+      "cta_text": "Build Your Review System",
+      "cta_href": "contact.html"
+    }
+  ],
+  "bridge": {
+    "eyebrow": "Looking for the Basics?",
+    "heading": "Solutions Work Best When the Foundation Is Right",
+    "body": "These systems deliver the most value when they sit on top of a well-built, conversion-optimised trade website. If you don't have that yet — or your current site isn't performing — start with our Trade Website Design service first.",
+    "card_1_icon": "◈",
+    "card_1_heading": "Trade Website Design",
+    "card_1_body": "Custom-built websites for Queensland trades, designed to rank on Google and convert visitors into genuine enquiries.",
+    "card_1_cta": "Learn More",
+    "card_1_href": "services.html#website-design",
+    "card_2_icon": "◉",
+    "card_2_heading": "Lead Capture Systems",
+    "card_2_body": "Smart forms that pre-qualify your leads so every enquiry that reaches your inbox is worth your time.",
+    "card_2_cta": "Learn More",
+    "card_2_href": "services.html#lead-capture",
+    "card_3_icon": "◎",
+    "card_3_heading": "Local SEO Foundations",
+    "card_3_body": "Get found by customers searching for your trade in your area — keyword research, on-page SEO, and Google Business Profile setup.",
+    "card_3_cta": "Learn More",
+    "card_3_href": "services.html#local-seo"
+  },
+  "cta_banner": {
+    "eyebrow": "Ready to Add Systems to Your Business?",
+    "heading": "Tell Us What You're Trying to Solve",
+    "body": "Not every business needs every solution. Book a free call and we'll work out which systems will have the biggest impact for your trade — and give you honest guidance on where to start.",
+    "cta_primary": "Book a Free Strategy Call",
+    "cta_primary_href": "contact.html",
+    "cta_secondary": "View Core Services",
+    "cta_secondary_href": "services.html"
+  }
+}

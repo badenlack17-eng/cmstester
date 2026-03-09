@@ -1,0 +1,124 @@
+{
+  "page_header": {
+    "eyebrow": "About Orbit Logic",
+    "heading": "A Digital Agency That Works Exclusively With Trade Businesses",
+    "sub": "We don't serve every industry. We chose one — trades and services — and we've gone deep. Every tool, process, and piece of knowledge we have is built around helping Queensland trade businesses win more work online."
+  },
+  "story": {
+    "eyebrow": "Our Story",
+    "heading": "Why We Focus Only on Trades",
+    "body_1": "Most web agencies take any client who comes through the door — one week it's a café, the next a law firm, the next a plumber. They apply the same generic process to everyone and produce forgettable results for most.",
+    "body_2": "Orbit Logic was built differently. We work exclusively with trade and service businesses across Queensland, which means everything we know — how trade customers search, what makes them trust a business, what causes them to pick up the phone — is directly applicable to you. There's no knowledge being wasted on other industries.",
+    "body_3": "Our clients are concreters, landscapers, plumbers, electricians, painters, roofers, patio builders, and more. They share common problems: outdated or non-existent websites, unqualified leads wasting their time, and no reliable digital system for growing their enquiry pipeline. We fix all three.",
+    "stat_1_val": "QLD",
+    "stat_1_label": "Based & Operated",
+    "stat_2_val": "100%",
+    "stat_2_label": "Trade-Focused",
+    "stat_3_val": "No Lock-In",
+    "stat_3_label": "Contracts"
+  },
+  "values": {
+    "eyebrow": "Why We're Different",
+    "heading": "What You Get Working With a Trades-Only Agency",
+    "sub": "Specialisation has a compounding effect. The more trade businesses we work with, the better we understand what works — and what doesn't. Here's what that means for you.",
+    "cards": [
+      {
+        "emoji": "🎯",
+        "heading": "Deep Industry Knowledge",
+        "body": "We know Queensland trade customers — how they search, what they read, what builds trust, and what makes them click away. That knowledge is baked into every project we deliver."
+      },
+      {
+        "emoji": "⚙️",
+        "heading": "Systems Thinking",
+        "body": "We don't just build websites. We design lead generation systems — because a beautiful website that doesn't convert is just an online brochure nobody reads."
+      },
+      {
+        "emoji": "📍",
+        "heading": "Queensland Local Expertise",
+        "body": "Based in Queensland, we understand the local search landscape, seasonal demand patterns, and what it takes to outrank competitors in your specific service area."
+      },
+      {
+        "emoji": "🔍",
+        "heading": "Custom Work Only",
+        "body": "Every project is built from scratch. No templates, no recycled layouts, no one-size-fits-all solutions. Your business is specific — your website should be too."
+      },
+      {
+        "emoji": "📈",
+        "heading": "Results-Focused",
+        "body": "We measure success by lead volume, conversion rate, and client growth — not just visual design. Your investment should show up in your enquiry inbox."
+      },
+      {
+        "emoji": "🤝",
+        "heading": "Long-Term Partnership",
+        "body": "We're not here for a one-off website project. Our goal is to be your ongoing digital partner — helping you grow as your business scales."
+      }
+    ]
+  },
+  "approach": {
+    "eyebrow": "Our Design Philosophy",
+    "heading": "We Design for Trust — Because That's What Makes Trade Customers Enquire",
+    "sub": "When someone is choosing a trade business, they're inviting a stranger to their home or property. The decision is driven by trust above everything else. Our design process starts from that truth and works backwards.",
+    "cards": [
+      {
+        "heading": "Strategy Before Design",
+        "body": "Before any design work begins, we research your market, your competitors, and your ideal customers. Every visual and content decision is informed by that strategy — not personal preference."
+      },
+      {
+        "heading": "Credibility-First Layouts",
+        "body": "Trade customers need to see proof before they enquire. Reviews, photos of completed work, credentials, and clear service details — our layouts put trust signals where they have the most impact."
+      },
+      {
+        "heading": "Conversion Engineered In",
+        "body": "Clear calls-to-action, minimal friction in the enquiry process, and mobile-first design for customers browsing on their phones. Conversion isn't an afterthought — it's the entire brief."
+      },
+      {
+        "heading": "Continuous Improvement",
+        "body": "A launch is the start, not the finish. We monitor performance data, track what's working, and improve your site over time — so it keeps getting better as your business grows."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Our Process",
+    "heading": "A Clear, Structured Process — So You're Never in the Dark",
+    "body_1": "Managing a web project on top of running a trade business is stressful. Our process is designed to minimise your time investment while keeping you informed and in control at every stage.",
+    "body_2": "From your first call to your first lead, you'll know exactly what's happening, what comes next, and when your site will be live.",
+    "cta_text": "Start the Conversation",
+    "cta_href": "contact.html",
+    "steps": [
+      {
+        "num": "01",
+        "heading": "Free Discovery Call",
+        "body": "A focused 30-minute conversation about your business, goals, ideal customers, and what your current digital presence is — or isn't — doing for you."
+      },
+      {
+        "num": "02",
+        "heading": "Strategy & Proposal",
+        "body": "We map out site structure, page priorities, copy direction, and any systems or solutions. You receive a clear, itemised proposal before a single line of work begins."
+      },
+      {
+        "num": "03",
+        "heading": "Design & Build",
+        "body": "Your project is built to spec with clear milestones, regular updates, and your review and approval before anything goes live. Typically 3–5 weeks from kick-off."
+      },
+      {
+        "num": "04",
+        "heading": "Launch & SEO Setup",
+        "body": "A careful, monitored launch with full on-page SEO configured, Google Analytics live, and a complete walkthrough so you understand what you have and how to use it."
+      },
+      {
+        "num": "05",
+        "heading": "Ongoing Partnership",
+        "body": "Monthly management, performance reporting, and continuous optimisation as your business grows — or a clean handover if you prefer to self-manage. No lock-in either way."
+      }
+    ]
+  },
+  "cta_banner": {
+    "eyebrow": "Work With Orbit Logic",
+    "heading": "Let's Have a Straight Conversation About Your Business",
+    "body": "If you're a serious Queensland trade business looking for a partner who understands your market — book a free call. No fluff, no sales pressure. You'll leave with clarity on what's possible and what it takes to get there.",
+    "cta_primary": "Book a Free Strategy Call",
+    "cta_primary_href": "contact.html",
+    "cta_secondary": "View Our Services",
+    "cta_secondary_href": "services.html"
+  }
+}

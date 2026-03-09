@@ -1,0 +1,138 @@
+{
+  "page_header": {
+    "eyebrow": "Our Services",
+    "heading": "Everything a Queensland Trade Business Needs to Win Online",
+    "sub": "From your first proper website to a full lead generation system — each service is built around one goal: getting your phone ringing with genuine, qualified enquiries."
+  },
+  "svc_1": {
+    "eyebrow": "Service 01",
+    "heading": "Trade Website Design",
+    "body_1": "Your website is often the first impression a potential customer gets of your business. If it looks outdated, loads slowly, or doesn't clearly explain what you do and where you operate — they'll move on to a competitor within seconds.",
+    "body_2": "Orbit Logic designs custom trade websites that establish trust immediately, communicate your services clearly, and convert visitors into genuine enquiries. Every site is built from scratch — no templates, no shortcuts, no recycled layouts from another industry.",
+    "cta_text": "Start Your Website Project",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Custom design tailored to your trade and brand",
+      "Mobile-first responsive layout",
+      "Conversion-optimised page structure",
+      "Industry-specific copy written for you",
+      "Contact forms and lead capture setup",
+      "Google Analytics 4 integration",
+      "On-page SEO for all key pages",
+      "Fast load speed and Core Web Vitals optimisation",
+      "Google Business Profile setup assistance",
+      "Full launch support and walkthrough"
+    ]
+  },
+  "svc_2": {
+    "eyebrow": "Service 02",
+    "heading": "Website Management",
+    "body_1": "A website isn't a one-time job. It needs ongoing updates, security monitoring, performance maintenance, and regular content changes to stay effective — and most trade business owners simply don't have time for that.",
+    "body_2": "Our management plans handle everything so your site stays fast, secure, and working as hard as the day it launched. You focus on the trade. We'll handle the technology.",
+    "cta_text": "Ask About Management Plans",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Monthly content and pricing updates",
+      "Security monitoring and patching",
+      "Speed and performance optimisation",
+      "Uptime monitoring — we know before you do",
+      "Automated backups",
+      "Software and plugin updates",
+      "Priority phone and email support",
+      "Monthly performance summary report"
+    ]
+  },
+  "svc_3": {
+    "eyebrow": "Service 03",
+    "heading": "Conversion Landing Pages",
+    "body_1": "Running Google Ads or a local digital campaign? Sending paid traffic to your homepage wastes money. A dedicated conversion landing page is built for one job only: turning a click into an enquiry.",
+    "body_2": "We design focused pages with tight messaging, strong trust signals, and a single call-to-action — so your ad spend actually pays off. Fully compatible with Google Ads, Meta Ads, and any campaign platform.",
+    "cta_text": "Get a Landing Page Built",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Single-focus conversion design",
+      "Headline and copy written for your campaign",
+      "Trust signals: reviews, guarantees, credentials",
+      "High-converting lead form",
+      "Google Ads & Meta Ads compatible",
+      "A/B testing ready structure",
+      "Conversion tracking setup",
+      "Fast load speed (critical for Quality Score)"
+    ]
+  },
+  "svc_4": {
+    "eyebrow": "Service 04",
+    "heading": "Lead Capture & Qualification Systems",
+    "body_1": "Getting website visitors to enquire is one thing. Getting qualified, serious buyers to enquire is another. Our lead capture systems are designed to filter out the tyre-kickers and surface the genuine jobs — before a single word is exchanged.",
+    "body_2": "Smart multi-step forms ask the right questions at the right time, auto-routing leads to your inbox with all the detail you need to respond quickly and confidently.",
+    "cta_text": "Build a Lead Capture System",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Multi-step lead qualification forms",
+      "Instant email and SMS notifications",
+      "Lead scoring and priority filtering",
+      "CRM integration (optional)",
+      "Spam and bot protection",
+      "Auto-response sequences",
+      "Lead source attribution tracking",
+      "Optional dashboard view of all enquiries"
+    ]
+  },
+  "svc_5": {
+    "eyebrow": "Service 05",
+    "heading": "Local SEO for Trade Businesses",
+    "body_1": "When a homeowner in your area searches \"concreter Brisbane\" or \"emergency plumber Gold Coast\", your business should appear. Local SEO is the process of optimising your website so it ranks for the searches your ideal customers are actually doing — in your service area, for your specific trade.",
+    "body_2": "Orbit Logic builds on-page SEO foundations into every website from day one, and offers ongoing local SEO work for businesses that want to dominate their local search results.",
+    "cta_text": "Improve Your Local Rankings",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Keyword research for your trade and suburb/area",
+      "On-page SEO for all key pages",
+      "Google Business Profile setup and optimisation",
+      "Schema markup (local business structured data)",
+      "Local citation building",
+      "Core Web Vitals and page speed improvements",
+      "Monthly search performance reporting"
+    ]
+  },
+  "svc_6": {
+    "eyebrow": "Service 06",
+    "heading": "Website Audit & Optimisation",
+    "body_1": "Already have a website but it's not generating leads? Before investing in a full rebuild, let us audit it first. We identify exactly what's costing you enquiries — whether that's slow load speed, poor mobile experience, weak calls-to-action, or thin content — and fix it.",
+    "body_2": "Many sites need targeted optimisation, not a full redesign. We'll be straight with you about which path makes more sense.",
+    "cta_text": "Get a Free Website Audit",
+    "cta_href": "contact.html",
+    "panel_title": "What's Included",
+    "panel_items": [
+      "Full technical and content audit",
+      "Core Web Vitals and page speed analysis",
+      "Conversion rate review",
+      "SEO gap analysis against competitors",
+      "Messaging and content improvements",
+      "Mobile experience review",
+      "Priority fix list with estimated impact",
+      "Post-optimisation performance comparison"
+    ]
+  },
+  "trust_bar": [
+    "All copy written for you",
+    "No lock-in contracts",
+    "Clear pricing upfront",
+    "Queensland-based team",
+    "Free strategy call to start"
+  ],
+  "cta_banner": {
+    "eyebrow": "Not Sure Where to Start?",
+    "heading": "Book a Free Call — We'll Tell You Exactly What You Need",
+    "body": "Every trade business is at a different stage. In a 30-minute call, we'll assess your current digital presence, identify the highest-impact opportunities, and give you a clear recommendation — no obligation to proceed.",
+    "cta_primary": "Book a Free Strategy Call",
+    "cta_primary_href": "contact.html",
+    "cta_secondary": "Explore Advanced Solutions",
+    "cta_secondary_href": "solutions.html"
+  }
+}

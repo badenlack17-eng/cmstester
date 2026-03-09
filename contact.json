@@ -1,0 +1,44 @@
+{
+  "site_name": "Orbit Logic",
+  "site_tagline": "Custom websites and lead generation systems for trade and service businesses across Queensland, Australia.",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "about": "About",
+    "contact": "Contact",
+    "cta_text": "Book a Free Call",
+    "cta_href": "contact.html"
+  },
+  "trust_strip": [
+    "Trade Businesses Only",
+    "Custom — No Templates",
+    "Local SEO Included",
+    "Queensland-Based",
+    "Responds Within 1 Business Day",
+    "Free Strategy Call"
+  ],
+  "footer": {
+    "brand_tagline": "Custom websites and lead generation systems for trade and service businesses across Queensland, Australia.",
+    "col_company": "Company",
+    "col_services": "Services",
+    "col_legal": "Legal",
+    "nav_home": "Home",
+    "nav_services": "Services",
+    "nav_solutions": "Solutions",
+    "nav_about": "About Us",
+    "nav_contact": "Contact",
+    "svc_1": "Trade Website Design",
+    "svc_2": "Lead Capture Systems",
+    "svc_3": "Local SEO",
+    "svc_4": "Landing Pages",
+    "svc_5": "Website Management",
+    "legal_1": "Privacy Policy",
+    "legal_2": "Terms of Service",
+    "legal_3": "Cookie Policy",
+    "bottom_1": "Privacy",
+    "bottom_2": "Terms",
+    "bottom_3": "Contact",
+    "copyright": "© 2025 Orbit Logic. All rights reserved. ABN: 00 000 000 000. Queensland, Australia."
+  }
+}

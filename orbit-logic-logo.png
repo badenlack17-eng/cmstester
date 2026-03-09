@@ -1,0 +1,206 @@
+{
+  "hero": {
+    "badge": "Queensland Trade Specialists",
+    "headline_1": "Your Trade Business.",
+    "headline_2": "Scale with Logic.",
+    "headline_accent": "Logic",
+    "sub": "Orbit Logic builds conversion-focused websites and lead generation systems for Queensland trades — concreters, landscapers, electricians, plumbers, and more. Custom-built. No templates. No wasted time.",
+    "cta_primary": "Book a Free Strategy Call",
+    "cta_primary_href": "contact.html",
+    "cta_secondary": "See What We Build",
+    "cta_secondary_href": "services.html",
+    "proof_1": "Custom-built — no templates",
+    "proof_2": "Local SEO built-in from day one",
+    "proof_3": "Trades-only focus — we know your market",
+    "proof_4": "Queensland-based team"
+  },
+  "services_section": {
+    "eyebrow": "What We Build",
+    "heading": "Websites & Systems That Generate Real Enquiries",
+    "sub": "Every trade business needs the same outcome: more qualified leads with less effort. Here's how we get you there — from a custom website to a fully automated lead pipeline.",
+    "card_1_heading": "Trade Website Design",
+    "card_1_body": "A custom, professional website built to rank on Google and convert visitors into paying customers — designed specifically for your trade and your local market.",
+    "card_1_li_1": "Mobile-first responsive design",
+    "card_1_li_2": "Conversion-focused page layouts",
+    "card_1_li_3": "Local SEO foundations built in",
+    "card_1_li_4": "Fast load times across all devices",
+    "card_2_heading": "Lead Generation Systems",
+    "card_2_body": "Smart enquiry systems that pre-qualify leads before they reach you — so you spend your time talking to serious customers, not tyre-kickers.",
+    "card_2_li_1": "Multi-step qualification forms",
+    "card_2_li_2": "Automated lead routing and alerts",
+    "card_2_li_3": "Quote calculators and booking tools",
+    "card_2_li_4": "Lead dashboard and tracking",
+    "card_3_heading": "Ongoing Website Management",
+    "card_3_body": "We keep your website fast, secure, and improving month to month — so you can focus on jobs, not software updates and content changes.",
+    "card_3_li_1": "Monthly content and pricing updates",
+    "card_3_li_2": "Security monitoring and backups",
+    "card_3_li_3": "Performance optimisation",
+    "card_3_li_4": "Priority support when you need it",
+    "cta_text": "View All Services",
+    "cta_href": "services.html"
+  },
+  "why_section": {
+    "eyebrow": "Why Orbit Logic",
+    "heading": "We Only Work With Trades — That Makes Us Better at It",
+    "sub": "Most web agencies take any client that comes through the door. We deliberately don't. Our entire process, knowledge base, and design system is built around trade businesses — which means faster results and less hand-holding on your end.",
+    "card_1_heading": "Deep Trades Industry Knowledge",
+    "card_1_body": "We understand how trade customers search, what makes them trust a business, and what causes them to enquire. That knowledge shapes every design and content decision.",
+    "card_2_heading": "Fast, Predictable Delivery",
+    "card_2_body": "A proven project process gets your site live within weeks, not months — with clear milestones, regular check-ins, and no surprises on costs.",
+    "card_3_heading": "Built for Queensland's Local Market",
+    "card_3_body": "We're Queensland-based and understand local search behaviour, seasonal patterns, and what trade customers in your area are actually looking for before they hire someone.",
+    "card_4_heading": "Measured by Results, Not Just Looks",
+    "card_4_body": "Lead volume, conversion rate, and cost-per-enquiry are the metrics that matter. We track and report on them — so you can see the return on your investment."
+  },
+  "industries_section": {
+    "eyebrow": "Who We Work With",
+    "heading": "Trade & Service Businesses Across Queensland We Build For",
+    "sub": "From solo operators to established businesses — if you run a trade or service business in Queensland, we understand your customers, your market, and what it takes to win online.",
+    "industries": [
+      {
+        "emoji": "🏗️",
+        "name": "Concreters"
+      },
+      {
+        "emoji": "🌿",
+        "name": "Landscapers"
+      },
+      {
+        "emoji": "🏡",
+        "name": "Patio Builders"
+      },
+      {
+        "emoji": "🔧",
+        "name": "Plumbers"
+      },
+      {
+        "emoji": "⚡",
+        "name": "Electricians"
+      },
+      {
+        "emoji": "🎨",
+        "name": "Painters"
+      },
+      {
+        "emoji": "🏠",
+        "name": "Roofers"
+      },
+      {
+        "emoji": "🚿",
+        "name": "Pressure Washing"
+      },
+      {
+        "emoji": "🪟",
+        "name": "Window & Screens"
+      },
+      {
+        "emoji": "🧱",
+        "name": "Tilers"
+      },
+      {
+        "emoji": "🌊",
+        "name": "Pool Builders"
+      },
+      {
+        "emoji": "🪚",
+        "name": "Carpenters"
+      }
+    ]
+  },
+  "solutions_section": {
+    "eyebrow": "Advanced Systems",
+    "heading": "Go Beyond a Website — Add Systems That Run Your Enquiry Process",
+    "sub": "The most successful trade businesses pair their website with smart digital tools that work 24/7 — capturing, qualifying, and following up on leads while you're on the tools.",
+    "card_1_num": "01",
+    "card_1_heading": "Instant Quote Calculators",
+    "card_1_body": "Customers enter their job details and get an instant price estimate. Filters out tyre-kickers and surfaces serious buyers ready to book.",
+    "card_2_num": "02",
+    "card_2_heading": "Online Booking Systems",
+    "card_2_body": "Let customers schedule site visits, consultations, or jobs directly from your website — synced with your calendar and confirmed automatically.",
+    "card_3_num": "03",
+    "card_3_heading": "Lead Qualification Forms",
+    "card_3_body": "Multi-step forms that ask the right questions upfront — job type, budget, location, timeline — so every enquiry you receive is worth your time.",
+    "cta_text": "Explore All Solutions",
+    "cta_href": "solutions.html"
+  },
+  "process_section": {
+    "eyebrow": "How It Works",
+    "heading": "From First Call to First Lead — A Simple, Clear Process",
+    "sub": "You shouldn't have to manage a web project on top of running your business. Our process is structured so you know exactly what's happening at every step — and your time investment is minimal.",
+    "cta_text": "Learn About Our Approach",
+    "cta_href": "about.html#process",
+    "step_1_num": "01",
+    "step_1_heading": "Free Discovery Call",
+    "step_1_body": "A 30-minute conversation about your business, goals, customers, and what your current digital presence is costing you in lost leads.",
+    "step_2_num": "02",
+    "step_2_heading": "Strategy & Proposal",
+    "step_2_body": "We map out your site structure, key pages, and any systems — then send a clear, itemised proposal before any work starts.",
+    "step_3_num": "03",
+    "step_3_heading": "Design & Build",
+    "step_3_body": "Your site is built to spec with regular check-ins and your sign-off at each stage. Typically 3–5 weeks from kick-off to launch.",
+    "step_4_num": "04",
+    "step_4_heading": "Launch & Grow",
+    "step_4_body": "A monitored launch with full SEO setup, analytics configured, and ongoing support as your business grows."
+  },
+  "testimonials_section": {
+    "eyebrow": "Client Results",
+    "heading": "What Queensland Trade Businesses Say About Orbit Logic",
+    "sub": "We let our clients' results do the talking. Here's what trade businesses like yours experienced after working with us.",
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "quote": "Within three weeks of launching our new site, we had more enquiries than the previous three months combined. The lead system actually works.",
+        "name": "Jake Moretti",
+        "detail": "Moretti Concreting · Gold Coast, QLD"
+      },
+      {
+        "stars": "★★★★★",
+        "quote": "I was drowning in time-wasters. The qualification form they built filters them out completely. Now almost every enquiry I get is a genuine job.",
+        "name": "Sarah Drummond",
+        "detail": "Drummond Landscapes · Brisbane, QLD"
+      },
+      {
+        "stars": "★★★★★",
+        "quote": "Professional team, premium result. Our website looks better than businesses ten times our size — and customers tell us that regularly.",
+        "name": "Tom Harcourt",
+        "detail": "Harcourt Electrical · Brisbane, QLD"
+      }
+    ]
+  },
+  "faq_section": {
+    "eyebrow": "Common Questions",
+    "heading": "What Trade Business Owners Ask Us First",
+    "sub": "Straight answers to the questions we hear most often.",
+    "faqs": [
+      {
+        "question": "How much does a trade website cost?",
+        "answer": "Pricing depends on what you need — a standard trade website typically starts from around $2,500. Websites with lead systems, booking tools, or quote calculators are priced based on scope. We provide clear, itemised pricing before anything starts. Book a free call and we'll give you an honest figure within 24 hours."
+      },
+      {
+        "question": "How long does it take to build a trade website?",
+        "answer": "Most trade websites are designed, built, and launched within 3 to 5 weeks of kick-off. More complex builds with multiple systems can take 6 to 8 weeks. We'll give you a realistic timeline in your proposal — and we stick to it."
+      },
+      {
+        "question": "Do I need to provide content and photos?",
+        "answer": "We write all the copy for your site as part of the project — you don't need to provide anything except some basic information about your business. If you have photos of your work, great — we'll use them. If not, we have access to high-quality stock photography that works for most trades."
+      },
+      {
+        "question": "Will my website show up on Google?",
+        "answer": "Every website we build includes on-page SEO foundations — keyword research, proper page structure, fast load speeds, and Google Business Profile setup. This gives you the best possible start. For more aggressive local SEO growth, we also offer an ongoing Local SEO Foundations service."
+      },
+      {
+        "question": "What happens after my website launches?",
+        "answer": "We offer ongoing Website Management plans that keep your site updated, secure, and improving month to month. Alternatively, we hand over full ownership and you manage it yourself — no lock-in contracts. Either way, we're available for support."
+      }
+    ]
+  },
+  "cta_banner": {
+    "eyebrow": "Get Started Today",
+    "heading": "Ready to Get More Leads From Your Website?",
+    "body": "Book a free 30-minute strategy call. We'll review your current digital presence, identify the biggest opportunities, and show you exactly what a new website or system could look like — no commitment required.",
+    "cta_primary": "Book a Free Call",
+    "cta_primary_href": "contact.html",
+    "cta_secondary": "View Our Services",
+    "cta_secondary_href": "services.html"
+  }
+}

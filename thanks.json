@@ -1,0 +1,128 @@
+{
+  "business_name": "Orbit Logic",
+  "tagline": "Premium Websites Built for Trades That Want More",
+  "location": "Queensland, Australia",
+  "contact": {
+    "email": "hello@orbitlogic.com.au",
+    "phone": "+61 400 000 000",
+    "address": "Queensland, Australia"
+  },
+  "hero": {
+    "headline": "Premium Websites Built for Trades That Want More",
+    "subheadline": "Orbit Logic builds modern websites and digital systems for trades and service businesses across Queensland.",
+    "cta_primary": "Book a Demo",
+    "cta_secondary": "Get a Free Website Preview"
+  },
+  "services": [
+    {
+      "id": "website-design",
+      "title": "Premium Website Design",
+      "icon": "◈",
+      "description": "Custom-built, conversion-focused websites designed specifically for trade and service businesses. Every site is engineered to attract, engage, and convert your ideal customers.",
+      "benefits": ["Mobile-first responsive design", "Conversion-optimised layouts", "Industry-specific content strategy", "Fast load times", "Professional brand presentation"]
+    },
+    {
+      "id": "website-management",
+      "title": "Website Management",
+      "icon": "◉",
+      "description": "Ongoing management so your website stays fast, secure, and current. We handle updates, backups, performance monitoring, and content changes so you can focus on your business.",
+      "benefits": ["Monthly content updates", "Security monitoring", "Performance optimisation", "Uptime monitoring", "Priority support"]
+    },
+    {
+      "id": "landing-pages",
+      "title": "Conversion Landing Pages",
+      "icon": "◎",
+      "description": "High-converting landing pages built for specific services or campaigns. Designed to turn paid traffic and organic visitors into qualified leads.",
+      "benefits": ["Single-focus conversion design", "A/B testing ready", "Fast load times", "Form integration", "Analytics tracking"]
+    },
+    {
+      "id": "lead-capture",
+      "title": "Lead Capture Systems",
+      "icon": "◐",
+      "description": "Intelligent lead capture systems that qualify enquiries before they reach you. Stop wasting time on bad leads and start closing more of the right ones.",
+      "benefits": ["Smart enquiry forms", "Automatic lead scoring", "Email notifications", "CRM integration", "Spam filtering"]
+    },
+    {
+      "id": "local-seo",
+      "title": "Local SEO Foundations",
+      "icon": "◑",
+      "description": "On-page SEO setup that positions your business to be found by local customers actively searching for your services. Built into every website from day one.",
+      "benefits": ["Keyword-optimised pages", "Google Business Profile setup", "Schema markup", "Local citation building", "Search performance reporting"]
+    },
+    {
+      "id": "optimisation",
+      "title": "Website Optimisation",
+      "icon": "◒",
+      "description": "Audit and optimise existing websites to improve speed, search visibility, and conversion rate. Turn an underperforming site into your best sales tool.",
+      "benefits": ["Performance audit", "Core Web Vitals optimisation", "Conversion rate review", "Content improvements", "Technical SEO fixes"]
+    }
+  ],
+  "solutions": [
+    {
+      "id": "quote-calculators",
+      "title": "Instant Quote Calculators",
+      "description": "Let customers get a real-time estimate directly on your website. Reduce back-and-forth, qualify serious buyers, and save hours every week."
+    },
+    {
+      "id": "booking-systems",
+      "title": "Booking Systems",
+      "description": "Let customers book consultations, inspections, or jobs directly from your site. Synced with your calendar and fully automated."
+    },
+    {
+      "id": "enquiry-dashboards",
+      "title": "Enquiry Dashboards",
+      "description": "See every lead in one place. Track status, source, and follow-up history. Never lose a hot lead again."
+    },
+    {
+      "id": "reporting-dashboards",
+      "title": "Reporting Dashboards",
+      "description": "Clear, visual reports showing your website performance, lead volume, and conversion data — delivered monthly or on demand."
+    },
+    {
+      "id": "ai-followup",
+      "title": "AI Follow-Up Tools",
+      "description": "Automated follow-up sequences that nurture enquiries, send reminders, and re-engage cold leads — all without you lifting a finger."
+    },
+    {
+      "id": "service-area-maps",
+      "title": "Service Area Maps",
+      "description": "Interactive maps showing your service coverage, helping local customers instantly see if you operate in their area."
+    },
+    {
+      "id": "lead-qualification",
+      "title": "Lead Qualification Forms",
+      "description": "Smart multi-step forms that pre-qualify enquiries by job type, budget, location, and timeline before they hit your inbox."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jake Moretti",
+      "business": "Moretti Concreting",
+      "industry": "Concreter",
+      "quote": "Within three weeks of launching our new site, we had more enquiries than the previous three months combined. The system actually works.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah Drummond",
+      "business": "Drummond Landscapes",
+      "industry": "Landscaper",
+      "quote": "I was getting leads from unqualified people wasting my time. The lead qualification form they built changed everything. Now almost every enquiry is serious.",
+      "rating": 5
+    },
+    {
+      "name": "Tom Harcourt",
+      "business": "Harcourt Electrical",
+      "industry": "Electrician",
+      "quote": "Professional team, premium result. Our website now looks better than businesses ten times our size. Clients comment on it all the time.",
+      "rating": 5
+    }
+  ],
+  "process_steps": [
+    { "number": "01", "title": "Discovery", "description": "We learn your business, goals, target customers, and competitors to build a precise strategy." },
+    { "number": "02", "title": "Design", "description": "A custom design tailored to your brand, your industry, and your ideal client — no templates." },
+    { "number": "03", "title": "Build", "description": "Your site is engineered for performance, mobile-first, and conversion from the ground up." },
+    { "number": "04", "title": "Launch", "description": "A smooth, monitored launch with SEO setup, analytics, and full handover documentation." },
+    { "number": "05", "title": "Grow", "description": "Ongoing management, optimisation, and system upgrades to keep your digital presence ahead." }
+  ],
+  "footer_text": "© 2025 Orbit Logic. All rights reserved. ABN: 00 000 000 000. Queensland, Australia."
+}
